@@ -1,0 +1,10 @@
+﻿  yichuan.cpp
+E:\vs_file_ylj\yichuan\yichuan.cpp(72,37): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+E:\vs_file_ylj\yichuan\yichuan.cpp(131,33): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+E:\vs_file_ylj\yichuan\yichuan.cpp(184,64): warning C4244: “参数”: 从“double”转换到“unsigned __int64”，可能丢失数据
+E:\vs_file_ylj\yichuan\yichuan.cpp(185,64): warning C4244: “参数”: 从“double”转换到“unsigned __int64”，可能丢失数据
+E:\vs_file_ylj\yichuan\yichuan.cpp(207,58): warning C4244: “参数”: 从“double”转换到“unsigned __int64”，可能丢失数据
+E:\vs_file_ylj\yichuan\yichuan.cpp(208,58): warning C4244: “参数”: 从“double”转换到“unsigned __int64”，可能丢失数据
+E:\vs_file_ylj\yichuan\yichuan.cpp(264,49): warning C4244: “参数”: 从“double”转换到“unsigned __int64”，可能丢失数据
+E:\vs_file_ylj\yichuan\yichuan.cpp(265,41): warning C4244: “参数”: 从“double”转换到“unsigned __int64”，可能丢失数据
+  yichuan.vcxproj -> E:\vs_file_ylj\yichuan\Debug\yichuan.exe

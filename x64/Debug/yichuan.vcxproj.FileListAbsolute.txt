@@ -1,0 +1,2 @@
+E:\vs_file_ylj\yichuan\x64\Debug\yichuan.exe
+E:\vs_file_ylj\yichuan\x64\Debug\yichuan.pdb
